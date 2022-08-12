@@ -4,6 +4,10 @@ Welcomehelo i am asha
 =======
 Welcomethis is vamsi here
 >>>>>>> origin/vamsi
+<<<<<<< HEAD
 =======
 this is yamini
 >>>>>>> origin/yamini
+=======
+this is shoba
+>>>>>>> origin/shoba
