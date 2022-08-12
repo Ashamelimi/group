@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 Welcomehelo i am asha
+<<<<<<< HEAD
 =======
 Welcomethis is vamsi here
 >>>>>>> origin/vamsi
+=======
+this is yamini
+>>>>>>> origin/yamini
