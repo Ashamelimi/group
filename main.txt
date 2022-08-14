@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-Welcomehelo i am asha
-<<<<<<< HEAD
-=======
-Welcomethis is vamsi here
->>>>>>> origin/vamsi
-<<<<<<< HEAD
-=======
-this is yamini
->>>>>>> origin/yamini
-=======
-this is shoba
->>>>>>> origin/shoba
+created branch
